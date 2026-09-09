@@ -1,0 +1,15 @@
+{
+  "name": "Chandler Industrial Plumbing Help",
+  "short_name": "Chandler Industrial Plum",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#c2410c",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

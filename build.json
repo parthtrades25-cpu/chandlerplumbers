@@ -1,0 +1,22 @@
+{
+  "version": "0.18.9",
+  "siteMode": "render-local",
+  "provider": "render",
+  "primaryUrl": "https://chandlerplumbers.onrender.com/",
+  "responsive": true,
+  "exitIntent": true,
+  "chatbotEnabled": true,
+  "dateStrategy": "randomized",
+  "geoSource": "U.S. Census Bureau + GeoNames",
+  "serviceAreaZips": 6,
+  "nearbyMarkets": 16,
+  "staticAudit": {
+    "pass": true,
+    "errors": [],
+    "warnings": [],
+    "htmlFiles": 1,
+    "linksChecked": 5,
+    "assetsChecked": 0
+  },
+  "builtAt": "2026-09-09T19:15:38.220Z"
+}

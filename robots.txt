@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chandlerplumbers.onrender.com/sitemap.xml
